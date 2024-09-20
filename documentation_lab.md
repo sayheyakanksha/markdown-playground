@@ -34,7 +34,7 @@ URL: https://collectionbuilder.github.io/cb-docs/docs/customization/config-metad
 
 6. **How should the date September 8, 2023 be formatted so that the timeline visualization works?**  
 Format: 2023-09-08  
-Note: (Dates in a mm/dd/yyyy format will also work but we have to make sure that we follow a consistent format throughout. It is recommended to use yyyy-mm-dd which is the international format. )
+Note: (Dates in a mm/dd/yyyy format will also work but we have to make sure that we follow a consistent format throughout. It is recommended to use yyyy-mm-dd which is the international format. )  
 URL: https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/#date
 
 7. **What column in what file allows you determine whether a field can be used for sorting on the Browse page of your website?**  
